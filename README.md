@@ -1,5 +1,5 @@
 <h1>TL;DR for this repo:</h1>
-<img src="http://assets.stickpng.com/images/58482acecef1014c0b5e4a1e.png" height="100" width="100">
+<img src="https://i.imgur.com/oUH9hNy.png" height="100" width="100">
 <ul>
   <li><h4>Programming Language used:</h4>JavaScript (Vue.js)</li>
   <li><h4>Approximate date:</h4>First semester of 2020</li>
