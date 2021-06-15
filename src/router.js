@@ -11,22 +11,22 @@ export default new Router({
   mode: 'history',
   routes: [
     {
-      path: '/',
+      path: '/vuejs-cryptocurrencies/',
       name: 'home',
       component: Home
     },
     {
-      path: '/about',
+      path: '/vuejs-cryptocurrencies/about',
       name: 'about',
       component: About
     },
     {
-      path: '/coin/:id',
+      path: '/vuejs-cryptocurrencies/coin/:id',
       name: 'coin-detail',
       component: CoinDetail
     },
     {
-      path: '*',
+      path: '/vuejs-cryptocurrencies/error',
       name: 'Error',
       component: Error
     }
